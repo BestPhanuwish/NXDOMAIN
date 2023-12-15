@@ -1,0 +1,12 @@
+!ADD org 1025
+org
+!ADD au 1025
+au
+!ADD facebook.com 1025
+facebook.com
+!ADD www.facebook.com 1025
+www.facebook.com
+!ADD google.com 1026
+!ADD www.google.com 1026
+www.google.com
+!EXIT

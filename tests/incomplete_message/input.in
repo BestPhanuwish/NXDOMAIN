@@ -1,0 +1,13 @@
+!FUM
+O\n
+c
+o
+m
+\n
+!ADD org 1026\norg\n!DE
+L org\norg\n
+!E
+XI
+T\n
+
+(We not actually use this input file since we use printf this is just a draft)

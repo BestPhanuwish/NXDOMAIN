@@ -1,0 +1,21 @@
+!ADD org 1026
+org
+!ADD microsoft.com 5678
+microsoft.com
+!ADD google.com 1234
+google.com
+!ADD wikipedia.org 11111
+wikipedia.org
+!ADD account.google.com 1235
+account.google.com
+!ADD en.wikipedia.org 8768
+en.wikipedia.org
+!ADD www.reddit.au.com 65535
+www.reddit.au.com
+!ADD a....v.g........b.c.d 65534
+a....v.g........b.c.d
+!ADD 123.456.789 65533
+123.456.789
+!ADD im-hungry.com 65532
+im-hungry.com
+!EXIT

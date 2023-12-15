@@ -1,0 +1,12 @@
+!EXI
+!CHICKEN
+!FUMO
+!... . .
+!
+!   
+!!!!!!!!!
+!EXIT google.com
+EXIT!
+ADD! org 1026
+DEL! com
+!EXIT

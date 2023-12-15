@@ -1,0 +1,13 @@
+!ADD org -1
+org
+!ADD au 0
+au
+!ADD facebook.com 1
+facebook.com
+!ADD reddit.com 1023
+reddit.com
+!ADD google.com 65536
+google.com
+!ADD www.google.com abc
+www.google.com
+!EXIT
