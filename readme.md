@@ -39,7 +39,7 @@ Create file name "master.conf".\
 Inside the master.conf type in a root port followed by many hostname and its port in form of "hostname,portNum". Or simply just copy paste the template below:
 
 > 1024\
-www.google.com,1029 \
+<span>www.google.com,1029</span>\
 docs.google.com,1030\
 account.google.com,1031\
 en.wikipedia.org,1032\
@@ -78,7 +78,7 @@ Use the template below or think of one yourself (single configuration file allow
 > 1025\
 com,1234\
 org,2587\
-www.google.com,8987 \
+<span>www.google.com,8987</span>\
 google.com,8888
 
 After setup the single configuration file then we can run the command in the terminal
